@@ -20,7 +20,7 @@
 
 ## Top languages used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&langs_count=8)](https://github.com/ReddyDivya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&langs_count=8&layout=compact)](https://github.com/ReddyDivya/github-readme-stats)
 
 ## Github Stats
 
