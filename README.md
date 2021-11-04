@@ -34,3 +34,8 @@ const a = 'Divya'
 const a = 'Divya'
 ```
 
+```diff
+- const a = 'Divya';
++ const a = 'Reddy';
+```
+
