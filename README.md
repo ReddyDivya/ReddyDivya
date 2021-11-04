@@ -12,6 +12,8 @@
 - **Ex-Software Engineer at TSI**
 - I've recently started my *blogging* journey
 
+## Find out more about me & feel free to connect with me here:
+ 
 [LinkedIn](https://www.linkedin.com/in/divya-reddy-58025a12b/)
 [Twitter](https://twitter.com/thedivyareddyy)
 [Instagram](https://www.instagram.com/p/CVQiVHyPDKN/?utm_medium=copy_link)
