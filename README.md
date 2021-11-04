@@ -4,6 +4,7 @@
 - 💬 **Ex-Software Engineer at TSI**
 - 🌱 I’m currently learning **React JS**
 - 📫 I’m pursuing *BCA at IGNOU* 
+- 💬 **Founder @frontend.shala (Instagram page)**
 - ⚡ **I love reading, cooking**
 
 <h2 align="left">Connect with me:</h2>
