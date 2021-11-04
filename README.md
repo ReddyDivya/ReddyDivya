@@ -21,3 +21,16 @@
 | Heading 1 | Heading 2 |
 |:---|:---:|
 |hi|hello|
+
+`const a = 'Divya'`
+
+```
+const a = 'Divya'
+const a = 'Divya'
+const a = 'Divya'
+```
+
+```js
+const a = 'Divya'
+```
+
