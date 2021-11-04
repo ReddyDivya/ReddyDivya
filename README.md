@@ -49,4 +49,4 @@ const a = 'Divya'
 
 I agree with this idea
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=synthwave" />
