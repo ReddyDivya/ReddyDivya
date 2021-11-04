@@ -18,34 +18,9 @@
 [Twitter](https://twitter.com/thedivyareddyy)
 [Instagram](https://www.instagram.com/p/CVQiVHyPDKN/?utm_medium=copy_link)
 
-1. item 1
-1. item 2
-1. item 3
+## Top languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&layout=compact)](https://github.com/ReddyDivya/github-readme-stats)
 
-- [x] HTML
-- [ ] CSS
-
-
-| Heading 1 | Heading 2 |
-|:---|:---:|
-|hi|hello|
-
-`const a = 'Divya'`
-
-```
-const a = 'Divya'
-const a = 'Divya'
-const a = 'Divya'
-```
-
-```js
-const a = 'Divya'
-```
-
-```diff
-- const a = 'Divya';
-+ const a = 'Reddy';
-```
 
 > Be less curious about people & more curious about ideas
 
