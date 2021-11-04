@@ -19,7 +19,7 @@
 [Instagram](https://www.instagram.com/p/CVQiVHyPDKN/?utm_medium=copy_link)
 
 ## Top languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&layout=compact)](https://github.com/ReddyDivya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&langs_count=8&layout=compact)](https://github.com/ReddyDivya/github-readme-stats)
 
 
 > Be less curious about people & more curious about ideas
