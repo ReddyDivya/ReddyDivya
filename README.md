@@ -6,3 +6,4 @@
 - **Ex-Software Engineer at TSI**
 - I've recently started my *blogging* journey
 
+[LinkedIn](https://www.linkedin.com/in/divya-reddy-58025a12b/)
