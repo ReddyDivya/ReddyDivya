@@ -19,7 +19,18 @@
 [Instagram](https://www.instagram.com/p/CVQiVHyPDKN/?utm_medium=copy_link)
 
 ## Top languages used
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&langs_count=8&layout=compact)](https://github.com/ReddyDivya/github-readme-stats)
 
+## Github Stats
+
 ![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=synthwave)
+
+## Projects
+
+[![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
+[![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
+[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
+
+
 
