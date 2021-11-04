@@ -10,35 +10,40 @@
 
 [LinkedIn](https://www.linkedin.com/in/divya-reddy-58025a12b/)
 
-1. item 1
-1. item 2
-1. item 3
+<details>
+    <summary>
+       See Other Info
+    </summary> 
+         1. item 1
+        1. item 2
+        1. item 3
 
-- [x] HTML
-- [ ] CSS
+        - [x] HTML
+        - [ ] CSS
 
 
-| Heading 1 | Heading 2 |
-|:---|:---:|
-|hi|hello|
+        | Heading 1 | Heading 2 |
+        |:---|:---:|
+        |hi|hello|
 
-`const a = 'Divya'`
+        `const a = 'Divya'`
 
-```
-const a = 'Divya'
-const a = 'Divya'
-const a = 'Divya'
-```
+        ```
+        const a = 'Divya'
+        const a = 'Divya'
+        const a = 'Divya'
+        ```
 
-```js
-const a = 'Divya'
-```
+        ```js
+        const a = 'Divya'
+        ```
 
-```diff
-- const a = 'Divya';
-+ const a = 'Reddy';
-```
+        ```diff
+        - const a = 'Divya';
+        + const a = 'Reddy';
+        ```
 
-> Be less curious about people & more curious about ideas
+        > Be less curious about people & more curious about ideas
 
-I agree with this idea
+        I agree with this idea
+</details>  
