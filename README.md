@@ -9,3 +9,10 @@
 - I've recently started my *blogging* journey
 
 [LinkedIn](https://www.linkedin.com/in/divya-reddy-58025a12b/)
+
+1. item 1
+1. item 2
+1. item 3
+
+- [x] HTML
+- [ ] CSS
