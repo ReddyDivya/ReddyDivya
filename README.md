@@ -21,9 +21,5 @@
 ## Top languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReddyDivya&langs_count=8&layout=compact)](https://github.com/ReddyDivya/github-readme-stats)
 
+![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=synthwave)
 
-> Be less curious about people & more curious about ideas
-
-I agree with this idea
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=synthwave" />
