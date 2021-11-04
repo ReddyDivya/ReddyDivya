@@ -39,3 +39,6 @@ const a = 'Divya'
 + const a = 'Reddy';
 ```
 
+> Be less curious about people & more curious about ideas
+
+I agree with this idea
