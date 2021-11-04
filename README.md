@@ -16,3 +16,8 @@
 
 - [x] HTML
 - [ ] CSS
+
+
+| Heading 1 | Heading 2 |
+|:---|:---:|
+|hi|hello|
