@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reddy Divya</h1>
+<h1 align="center">Hi 👋, I'm Reddy Divya&#128525;&#128151;</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 💬 **Ex-Software Engineer at TSI**
