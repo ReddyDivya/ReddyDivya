@@ -38,3 +38,9 @@
 
 <h2 align="left">Top used languages:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+</a>
