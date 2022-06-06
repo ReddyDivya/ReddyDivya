@@ -29,6 +29,8 @@
 
 <h2 align="left">Github Stats:</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=reddydivya&show_icons=true&locale=en&theme=synthwave" alt="reddydivya" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddydivya&layout=compact" />
 
 <h2 align="left">Projects:</h2>
 
@@ -39,15 +41,8 @@
 <h2 align="left">Top used languages:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
-  </a>  
-</p> 
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddydivya&layout=compact" />
-</div>
+<h2 align="left">🏆 Github Profile Trophy:</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=reddydivya&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
