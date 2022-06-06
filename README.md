@@ -27,15 +27,18 @@
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; 
 </p>
 
-<h2 align="left">Github Stats:</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddydivya&show_icons=true&locale=en&theme=synthwave" alt="reddydivya" />
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
+<p align="left">
+  <h2 align="left">Github Stats:</h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reddydivya&show_icons=true&locale=en&theme=synthwave" alt="reddydivya" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
+</p>
 
-<h2 align="left">Projects:</h2>
-
-[![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
-[![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
-[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
+<p align="left">
+  <h2 align="left">Projects:</h2>
+  [![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
+  [![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
+  [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
+  </p>
 
 <h2 align="left">Top used languages:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
