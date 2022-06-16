@@ -29,7 +29,6 @@
 
 <p align="left">
   <h2 align="left">Github Stats:</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reddydivya&show_icons=true&locale=en&theme=synthwave" alt="reddydivya" />
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
 </p>
 
@@ -41,9 +40,8 @@
 [![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
 [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
 </p>
-
 -->
 <p align="left">
-<h2 align="left">Top used languages:</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
+  <h2 align="left">Top used languages:</h2>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
 </p>
