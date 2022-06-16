@@ -43,5 +43,5 @@
 -->
 <p align="left">
   <h2 align="left">Top used languages:</h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
 </p>
