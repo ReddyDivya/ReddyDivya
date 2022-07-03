@@ -42,7 +42,7 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
 </p>
 
+<h2 align="left">Github Stats:</h2>
 <p align="left">
-  <h2 align="left">Github Stats:</h2>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
 </p>
