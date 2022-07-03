@@ -28,11 +28,6 @@
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; 
 </p>
 
-<p align="left">
-  <h2 align="left">Github Stats:</h2>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
-</p>
-
 <!--
 <h2 align="left">Projects:</h2>
 
@@ -45,4 +40,9 @@
 <p align="left">
   <h2 align="left">Top used languages:</h2>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
+</p>
+
+<p align="left">
+  <h2 align="left">Github Stats:</h2>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
 </p>
