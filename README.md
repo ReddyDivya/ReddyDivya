@@ -6,19 +6,19 @@
  <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
-  <a href="https://twitter.com/thedivyareddyy" target="blank">
-       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a> &nbsp;
-  <a href="https://github.com/ReddyDivya" target="blank">
+ <a href="https://github.com/ReddyDivya" target="blank">
        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
  </a> &nbsp;
-  <a href="https://codepen.io/reddy_divya" target="blank">
+ <a href="https://twitter.com/thedivyareddyy" target="blank">
+       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a> &nbsp;
+ <a href="https://codepen.io/reddy_divya" target="blank">
        <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
  </a> &nbsp;
-  <a href="https://hashnode.com/@ReddyDivya" target="blank">
+ <a href="https://hashnode.com/@ReddyDivya" target="blank">
        <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
  </a> &nbsp;
-  <a href="https://codesandbox.com/divyareddy0205" target="blank">
+ <a href="https://codesandbox.com/divyareddy0205" target="blank">
     <img src="https://img.shields.io/badge/codesandbox-blue?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox Badge"/>   
  </a> &nbsp;
 </div>
@@ -37,11 +37,11 @@
 
 ---
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hyderabad.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I worked as a Software Engineer and contributed to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -50,11 +50,6 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - You can contact me at [divyareddy0205@gmail.com](mailto:divyareddy0205@gmail.com)
 
 ---
- 
-
-## About me:
-
-* ⚡ You can contact me at [divyareddy0205@gmail.com](mailto:divyareddy0205@gmail.com)
 
 ## Work Experience
 * ⚡ **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
@@ -63,7 +58,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 * ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - June 2023_)**
 * ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91%**
 
-## Languages and Tools
+### :hammer_and_wrench: Languages and Tools :
 <p align="left"> 
       <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
