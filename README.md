@@ -88,6 +88,14 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
       <a href="http://www.github.com/reddydivya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddydivya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </p
   
+ ---
+
+### :writing_hand: Blog Posts :
+  
+<!-- BLOG-POST-LIST:START -->
+    
+<!-- BLOG-POST-LIST:END -->
+  
 ## Projects
 <p align="left"> 
             [![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
