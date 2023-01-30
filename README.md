@@ -80,17 +80,20 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp; 
 </div>
 
+---
+
+### :fire: My Stats :
+
+<p align="left">
+      <a href="http://www.github.com/reddydivya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddydivya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ </p
+  
 ## Projects
 <p align="left"> 
             [![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
             [![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
             [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
 </p>
-
-## Github Stats
-<p align="left">
-      <a href="http://www.github.com/reddydivya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddydivya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p
 
 ## Top used languages
 <p align="left">
