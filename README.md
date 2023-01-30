@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Reddy Divya&#128525;&#128151;</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Reddy Divya&#128525;</h1>
+<h3 align="center">React JS Developer</h3>
 
-- 💬 **Ex-Software Engineer at TSI**
-- 🌱 I’m currently learning **React JS**
-- 📫 I’m pursuing *BCA at IGNOU* 
-- 💬 **Founder @frontend.shala (Instagram page)**
-- ⚡ **I love reading, cooking**
+- 💬 **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
+- 📫 I’m pursuing *BCA final year at IGNOU*
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
