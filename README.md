@@ -65,7 +65,10 @@ I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap,
  </a> &nbsp;
  <a href="https://twitter.com/thedivyareddyy" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedivyareddyy" height="30" width="40" />
- </a> &nbsp; 
+ </a> &nbsp;
+ <a href="https://github.com/ReddyDivya" target="blank">
+       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="ReddyDivya" height="30" width="40" />
+ </a> &nbsp;
  <a href="https://codepen.io/reddy_divya" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="reddy_divya" height="30" width="40" />
  </a> &nbsp;
