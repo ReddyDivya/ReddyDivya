@@ -12,6 +12,31 @@ I'm a React JS Developer.
 
 I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap, Tailwind, HTML. 
 
+## Connect with me
+
+<div id="badges">
+ <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+  <a href="https://twitter.com/thedivyareddyy" target="blank">
+       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a> &nbsp;
+  <a href="https://github.com/ReddyDivya" target="blank">
+       <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+ </a> &nbsp;
+  <a href="https://codepen.io/reddy_divya" target="blank">
+       <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+ </a> &nbsp;
+  <a href="https://hashnode.com/@ReddyDivya" target="blank">
+       <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+ </a> &nbsp;
+
+  <a href="https://codesandbox.com/divyareddy0205" target="blank">
+    <img src="https://img.shields.io/badge/codesandbox-blue?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox Badge"/>   
+ </a> &nbsp;
+</div>
+
+
 ## About me:
 
 * ⚡ You can contact me at [divyareddy0205@gmail.com](mailto:divyareddy0205@gmail.com)
@@ -62,36 +87,4 @@ I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap,
 ## Top used languages
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
-</p>
-  
-## Connect with me
-
-<div id="badges">
- <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-  <a href="https://twitter.com/thedivyareddyy" target="blank">
-       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a> &nbsp;
-</div>
-
-<p align="left">
-  <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-reddy" height="30" width="40" />
- </a> &nbsp;
- <a href="https://twitter.com/thedivyareddyy" target="blank">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedivyareddyy" height="30" width="40" />
- </a> &nbsp;
- <a href="https://github.com/ReddyDivya" target="blank">
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="ReddyDivya" height="30" width="40" />
- </a> &nbsp;
- <a href="https://codepen.io/reddy_divya" target="blank">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="reddy_divya" height="30" width="40" />
- </a> &nbsp;
- <a href="https://codesandbox.com/divyareddy0205" target="blank">
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="divyareddy0205" height="30" width="40" />
- </a> &nbsp;
-<a href="https://hashnode.com/@ReddyDivya" target="blank">
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="ReddyDivya" height="30" width="40" />
- </a> &nbsp;
 </p>
