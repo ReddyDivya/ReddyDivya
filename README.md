@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reddy Divya&#128525;</h1>
+<h1 align="center">Hi 👋, I'm Reddy Divya😎</h1>
 <h3 align="center">React JS Developer</h3>
 
 - 💬 **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
