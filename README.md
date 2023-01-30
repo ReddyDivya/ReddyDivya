@@ -3,22 +3,22 @@
 </div>
 
 <div id="badges" align="center">
- <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/reddy-divya" target="_blank">
+    <img src="https://img.shields.io/badge/Reddy Divya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <a href="https://github.com/ReddyDivya" target="blank">
+ <a href="https://github.com/ReddyDivya" target="_blank">
        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
  </a> &nbsp;
- <a href="https://twitter.com/thedivyareddyy" target="blank">
+ <a href="https://twitter.com/thedivyareddyy" target="_blank">
        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a> &nbsp;
- <a href="https://codepen.io/reddy_divya" target="blank">
+ <a href="https://codepen.io/reddy_divya" target="_blank">
        <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
  </a> &nbsp;
- <a href="https://hashnode.com/@ReddyDivya" target="blank">
+ <a href="https://hashnode.com/@ReddyDivya" target="_blank">
        <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
  </a> &nbsp;
- <a href="https://codesandbox.com/divyareddy0205" target="blank">
+ <a href="https://codesandbox.com/divyareddy0205" target="_blank">
     <img src="https://img.shields.io/badge/codesandbox-blue?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox Badge"/>   
  </a> &nbsp;
 </div>
