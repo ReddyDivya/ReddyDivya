@@ -49,3 +49,9 @@
       <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
     </p>
  </div>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Undisclosed64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Undisclosed64&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
