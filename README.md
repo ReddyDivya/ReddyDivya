@@ -45,9 +45,5 @@
 
 <div>
     <h2 align="left">My Github Stats:</h2>
-    <p align="left">
-      <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=reddydivya&count_private=true&include_all_commits=true" />
-    </p>
-  
-  <a href="http://www.github.com/reddydivya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddydivya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="http://www.github.com/reddydivya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddydivya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </div>
