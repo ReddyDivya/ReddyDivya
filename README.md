@@ -93,7 +93,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
-    
+- [Arrow Function](https://dev.to/reddydivya/arrow-function-4eob)
 <!-- BLOG-POST-LIST:END -->
   
 ## Projects
