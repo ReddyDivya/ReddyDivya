@@ -12,7 +12,7 @@
       </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;  
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/" alt="git" width="40" height="40"/> </a> &nbsp; 
+      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; 
       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/> &nbsp;
             
 </p>
