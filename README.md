@@ -2,14 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
- <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-  <a href="https://twitter.com/thedivyareddyy" target="blank">
-       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a> &nbsp;
-</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 Hi👋, I'm Reddy Divya😎
 ============================
@@ -72,6 +65,16 @@ I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap,
 </p>
   
 ## Connect with me
+
+<div id="badges">
+ <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+  <a href="https://twitter.com/thedivyareddyy" target="blank">
+       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a> &nbsp;
+</div>
+
 <p align="left">
   <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-reddy" height="30" width="40" />
