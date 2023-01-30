@@ -54,9 +54,13 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## Work Experience
 * ⚡ **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
 
+---
+
 ## Education
 * ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - June 2023_)**
 * ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91%**
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -96,11 +100,9 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - [Arrow Function](https://dev.to/reddydivya/arrow-function-4eob)
 <!-- BLOG-POST-LIST:END -->
   
-## Projects
+### Projects
 <p align="left"> 
             [![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
-            [![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
-            [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
 </p>
 
  ---
