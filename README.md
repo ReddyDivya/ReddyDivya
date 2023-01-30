@@ -2,19 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ReddyDivya&style=flat-square&color=blue" alt=""/>
-
-Hi👋, I'm Reddy Divya😎
-============================
-
-I'm a React JS Developer.
-----------------------------
-
-I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap, Tailwind, HTML. 
-
-## Connect with me
-
-<div id="badges">
+<div id="badges" align="center">
  <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
@@ -30,12 +18,23 @@ I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap,
   <a href="https://hashnode.com/@ReddyDivya" target="blank">
        <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
  </a> &nbsp;
-
   <a href="https://codesandbox.com/divyareddy0205" target="blank">
     <img src="https://img.shields.io/badge/codesandbox-blue?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox Badge"/>   
  </a> &nbsp;
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ReddyDivya&style=flat-square&color=blue" alt=""/>  
+</div>
+
+<h2 align="center">
+    Hi👋, I'm Reddy Divya😎  
+</h2> 
+
+I'm a React JS Developer.
+----------------------------
+
+I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap, Tailwind, HTML. 
 
 ## About me:
 
