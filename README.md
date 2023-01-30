@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Reddy Divya😎</h1>
-<h3 align="center">React JS Developer</h3>
+Hi👋, I'm Reddy Divya😎
+============================
 
-- 💬 **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
-- 📫 I’m pursuing *BCA final year at IGNOU*
+I am a React JS Developer.
+----------------------------
 
-<h2 align="left">Languages and Tools:</h2>
+I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap, Tailwind, HTML. 
+
+## About me:
+
+* ⚡ You can contact me at [divyareddy0205@gmail.com](mailto:divyareddy0205@gmail.com)
+
+## Work Experience
+* ⚡ **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
+
+## Education
+* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - June 2023_)**
+* ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91% **
+
+## Languages and Tools
 <p align="left"> 
       <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
@@ -28,15 +41,14 @@
       </a> &nbsp;
 </p>
 
-<!--
-<h2 align="left">Projects:</h2>
-
-<p align="left">
-[![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
-[![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
-[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
-</p>
--->
+<div>
+      <h2 align="left">Projects:</h2>
+      <p align="left">
+            [![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
+            [![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
+            [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
+      </p>
+</div>
 
 <div>
   <h2 align="left">Top used languages:</h2>
