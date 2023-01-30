@@ -1,7 +1,7 @@
 Hi👋, I'm Reddy Divya😎
 ============================
 
-I am a React JS Developer.
+I'm a React JS Developer.
 ----------------------------
 
 I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap, Tailwind, HTML. 
@@ -15,7 +15,7 @@ I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap,
 
 ## Education
 * ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - June 2023_)**
-* ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91% **
+* ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91%**
 
 ## Languages and Tools
 <p align="left"> 
@@ -41,28 +41,24 @@ I'm skilled in front-end technologies like Javascript, React-JS, CSS, Bootstrap,
       </a> &nbsp;
 </p>
 
-<div>
-      <h2 align="left">Projects:</h2>
-      <p align="left">
+## Projects
+<p align="left"> 
             [![Expense-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)](https://github.com/ReddyDivya/Expense-Tracker)
             [![Task-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker)](https://github.com/ReddyDivya/Task-Tracker)
             [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone&show_owner=true)](https://github.com/ReddyDivya/Netflix-Clone)
-      </p>
-</div>
+</p>
 
-<div>
-  <h2 align="left">Top used languages:</h2>
+## Top used languages:
   <p align="left">
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
   </p>
-</div>
 
-<div>
-    <h2 align="left">My Github Stats:</h2>
+## Github Stats
+<p align="left">
       <a href="http://www.github.com/reddydivya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddydivya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </div>
+ </p
 
-<h2 align="left">Connect with me:</h2>
+## Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/divya-reddy-58025a12b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-reddy" height="30" width="40" /></a> &nbsp;
   <a href="https://twitter.com/thedivyareddyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedivyareddyy" height="30" width="40" /></a> &nbsp; 
