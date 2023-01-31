@@ -99,7 +99,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-| ![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=city_lights) | ![ReddyDivya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReddyDivya&theme=city-lights) |
+| ![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&theme=city_lights) | ![ReddyDivya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReddyDivya&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&theme=city-lights) |
 | :---: | :---: |
   
  ---
