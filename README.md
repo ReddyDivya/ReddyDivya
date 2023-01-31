@@ -112,7 +112,8 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 ### Projects
 <p align="left">        
-      [![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker&logoColor=red&style=for-the-badge)][Expense Tracker]
+<!--       [![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)] -->
+        https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker
 </p>
 
  ---
@@ -122,3 +123,10 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddydivya&show_icons=true&locale=en&layout=compact" alt="reddydivya" />
 </p>
+
+<!-- [here](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md) -->
+
+|          Name          |                              Preview                               |
+| :--------------------: | :----------------------------------------------------------------: |
+|      **redical**       |      <img src="./asset/redical.svg" height=250 alt="graph"/>       |
+|       **coral**        |       <img src="./asset/coral.svg" height=250 alt="graph"/>        |
