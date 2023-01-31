@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/reddy-divya" target="_blank">
+  <a href="https://linkedin.com/in/reddy-divya-58025a12b" target="_blank">
     <img src="https://img.shields.io/badge/Reddy Divya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <a href="https://github.com/ReddyDivya" target="_blank">
