@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Reddy Divya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <a href="https://github.com/ReddyDivya" target="_blank">
-       <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+       <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
  </a> &nbsp;
  <a href="https://twitter.com/thedivyareddyy" target="_blank">
        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -16,10 +16,7 @@
        <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
  </a> &nbsp;
  <a href="https://hashnode.com/@ReddyDivya" target="_blank">
-       <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
- </a> &nbsp;
- <a href="https://codesandbox.com/divyareddy0205" target="_blank">
-    <img src="https://img.shields.io/badge/codesandbox-blue?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox Badge"/>   
+       <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=0000CD" alt="Hashnode Badge"/>
  </a> &nbsp;
 </div>
 
@@ -62,29 +59,6 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp; 
-</div>
-
----
 ## Current Stack
 
 | Programming Language | Version Control |
