@@ -90,11 +90,16 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 ### Projects
 <p align="left">        
-<!--     [![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker)] -->
-     [![Expense Tracker]<img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker" alt="reddydivya" />]
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Plutus-Bank" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=RushWay" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=PersonalPortfolio" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=BlogTemplate" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Meme-Generator" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=BlogTemplate" alt="reddydivya" />
 </p>
-
-(https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker&theme=alduin)
 
  ---
 
