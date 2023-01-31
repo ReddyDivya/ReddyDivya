@@ -101,6 +101,8 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 | ![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) | ![ReddyDivya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReddyDivya&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) |
 | :---: | :---: |
+
+[![Reddy Divya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ReddyDivya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  ---
 
@@ -125,8 +127,3 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </p>
 
 <!-- [here](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md) -->
-
-|          Name          |                              Preview                               |
-| :--------------------: | :----------------------------------------------------------------: |
-|      **redical**       |      <img src="./asset/redical.svg" height=250 alt="graph"/>       |
-|       **coral**        |       <img src="./asset/coral.svg" height=250 alt="graph"/>        |
