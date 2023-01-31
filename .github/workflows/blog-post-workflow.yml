@@ -14,4 +14,4 @@ jobs:
       - uses: ReddyDivya/blog-post-workflow@main
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/reddydivya, https://thedivyareddyy.hashnode.dev/"
+          feed_list: "https://dev.to/feed/reddydivya"
