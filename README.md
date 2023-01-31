@@ -89,7 +89,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- BLOG-POST-LIST:END -->
   
 ### Projects
-<p align="left">        
+<p align="left">   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Plutus-Bank" alt="reddydivya" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Expense-Tracker" alt="reddydivya" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Task-Tracker" alt="reddydivya" />
@@ -98,7 +98,6 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=PersonalPortfolio" alt="reddydivya" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=BlogTemplate" alt="reddydivya" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Meme-Generator" alt="reddydivya" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=BlogTemplate" alt="reddydivya" />
 </p>
 
  ---
