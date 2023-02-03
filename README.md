@@ -29,7 +29,7 @@
 </h2> 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://img.freepik.com/free-vector/programmer-working-with-sql_52683-22997.jpg?w=740&t=st=1675430065~exp=1675430665~hmac=3e25467d43739e4c487b706110bbabe0897caf628fab20d7e46d95e3f56aaece" />
 </div>
 
 ---
