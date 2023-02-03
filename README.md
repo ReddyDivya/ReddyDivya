@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> -->
+  
+  <img src="https://img.freepik.com/free-vector/programmer-working-office-illustration_52683-26689.jpg?w=740&t=st=1675430491~exp=1675431091~hmac=74b222a379a61f4ee529a24cdd7e919d70f973dec08bece519fd43073b37645d"/>
 </div>
 
 <div id="badges" align="center">
