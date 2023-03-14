@@ -85,7 +85,14 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
+- [CSS Colors](https://thedivyareddyy.hashnode.dev/css-colors)
+- [JavaScript Array methods to simplify your code](https://thedivyareddyy.hashnode.dev/javascript-array-methods-to-simplify-your-code)
+- [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
 - [Arrow Function](https://dev.to/reddydivya/arrow-function-4eob)
+- [Export and Import](https://thedivyareddyy.hashnode.dev/export-import)
+- [Promise](https://thedivyareddyy.hashnode.dev/promise)
+- [Template Literals](https://dev.to/reddydivya/arrow-function-4eob)
+- [Destructure Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
 <!-- BLOG-POST-LIST:END -->
   
 ### Projects
