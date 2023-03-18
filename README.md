@@ -99,7 +99,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="left">   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Plutus-Bank" alt="reddydivya" />>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone" alt="reddydivya" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=RushWay" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=disney-clone" alt="reddydivya" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Meme-Generator" alt="reddydivya" />
 </p>
 
