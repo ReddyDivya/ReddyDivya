@@ -54,7 +54,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ## Education
-* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - June 2023_)**
+* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - August 2023_)**
 * ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91%**
 
 ---
