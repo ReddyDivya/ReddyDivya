@@ -33,26 +33,27 @@
 
 ## :woman_technologist: About Me :
 
-I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hyderabad.
+- I'm a React JS Developer, I strive to craft responsive web applications that prioritize speed, and seamless user interaction.
 
-- :telescope: I worked as a Software Engineer and contributed to frontend for building web applications.
+- I worked for 4.2 years at TeleServices International as a Software Programmer, where I played a role in developing the front end of the PPMS (Physician Practice Management System) web application. I collaborated with teams and also worked independently.
 
-- :seedling: Exploring Technical Content Writing.
+- Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- I keep posting my knowledge to help others on LinkedIn and Twitter.
 
 - You can contact me at [divyareddy0205@gmail.com](mailto:divyareddy0205@gmail.com)
 
 ---
 
 ## Work Experience
-* ⚡ **Software Engineer at TeleServices International (_May 2017 - Jun 2021_)**
+* ⚡ Software Programmer at TeleServices International (_November 2017 - June 2021_)
+* ⚡ Software Programmer (Intern) at TeleServices International (_May 2017 - November 2017_)
 
 ---
 
 ## Education
-* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - August 2023_)**
-* ⚡ **Computer Science Engineering at Government Institute of Electronics (_Jun 2014 - May 2017_) - Grade: 91%**
+* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - September 2023_)** - Grade: 70%
+* ⚡ **Diploma in Computer Programming at Government Institute of Electronics (_Jun 2014 - November 2017_) - Grade: 91%**
 
 ---
 
@@ -61,7 +62,7 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 | Programming Language | Version Control |
 | :--- | ---: |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) | ![GIT](https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=orange) ![GITHUB](https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=orange) | 
-| **Frontend Development, Frameworks, Platforms and Libraries** | **Hosting** |
+| **Frontend Development, Frameworks, Platforms, and Libraries** | **Hosting** |
 | ![HTML](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=#00C7B7) ![CSS](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-lightblue.svg?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=#00C7B7) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-blue.svg?style=for-the-badge&logo=jQuery&logoColor=orange) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
 
 ---
