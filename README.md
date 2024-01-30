@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-netflix-gpt" alt="rd-netflix-gpt" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-Englingo" alt="rd-Englingo" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-CurioScape" alt="rd-CurioScape" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-portfolio" alt="rd-portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=divya-portfolio" alt="divya-portfolio" />
 </p>
 
  ---
