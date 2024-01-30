@@ -37,19 +37,19 @@
 
 ---
 
-## Work Experience :
+## 🧑‍💼 Work Experience :
 * ⚡ **Software Programmer** at **TeleServices International (_November 2017 - June 2021_)**
 * ⚡ **Software Programmer (Intern)** at **TeleServices International (_May 2017 - November 2017_)**
 
 ---
 
-## Education :
+## 👩‍🎓 Education :
 * ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - September 2023_) - Grade: 70%**
 * ⚡ **Diploma in Computer Programming at Government Institute of Electronics (_Jun 2014 - November 2017_) - Grade: 91%**
 
 ---
 
-## Current Stack :
+## ⭐Tech Stack :
 
 | Programming Language | Version Control |
 | :--- | ---: |
@@ -63,6 +63,8 @@
 
 | ![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) | ![ReddyDivya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReddyDivya&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) |
 | :---: | :---: |
+
+---
 
 ### :writing_hand: Blog Posts :
   
@@ -80,8 +82,10 @@
 - [CSS Colors](https://thedivyareddyy.hashnode.dev/css-colors)
 
 <!-- BLOG-POST-LIST:END -->
+
+---
   
-### Projects :
+### 💻 Projects :
 <p align="left">   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-netflix-gpt" alt="rd-netflix-gpt" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-CurioScape" alt="rd-CurioScape" />
