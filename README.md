@@ -72,30 +72,29 @@
 | ![ReddyDivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddyDivya&show_icons=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) | ![ReddyDivya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReddyDivya&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25) |
 | :---: | :---: |
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ReddyDivya&theme=alduin)
-
- ---
-
 ### :writing_hand: Blog Posts :
   
 <!-- BLOG-POST-LIST:START -->
-- [CSS Colors](https://thedivyareddyy.hashnode.dev/css-colors)
+- [Unleashing Framer Motion](https://thedivyareddyy.hashnode.dev/framer-motion)
+- [JavaScript Export and Import](https://thedivyareddyy.hashnode.dev/export-import)
+- [Arrow Function](https://thedivyareddyy.hashnode.dev/arrow-functions)
+- [Template Literals](https://thedivyareddyy.hashnode.dev/template-literals)
+- [Promise](https://thedivyareddyy.hashnode.dev/promises)
+- [Destructure Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
+- [JavaScript Array methods to simplify your code](https://thedivyareddyy.hashnode.dev/js-array-methods)
+- [Level Up Your JavaScript Arrays: Say Goodbye to Duplicates!](https://thedivyareddyy.hashnode.dev/no-duplicates)
 - [JavaScript Array methods to simplify your code](https://thedivyareddyy.hashnode.dev/javascript-array-methods-to-simplify-your-code)
 - [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
-- [Arrow Function](https://dev.to/reddydivya/arrow-function-4eob)
-- [Export and Import](https://thedivyareddyy.hashnode.dev/export-import)
-- [Promise](https://thedivyareddyy.hashnode.dev/promise)
-- [Template Literals](https://dev.to/reddydivya/arrow-function-4eob)
-- [Destructure Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
+- [CSS Colors](https://thedivyareddyy.hashnode.dev/css-colors)
+
 <!-- BLOG-POST-LIST:END -->
   
 ### Projects
 <p align="left">   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Plutus-Bank" alt="reddydivya" />>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Plutus-Bank" alt="reddydivya" />>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Netflix-Clone" alt="reddydivya" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=disney-clone" alt="reddydivya" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Meme-Generator" alt="reddydivya" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-netflix-gpt" alt="rd-netflix-gpt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Englingo" alt="Englingo" />>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=CurioScape" alt="CurioScape" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=divya-portfolio" alt="divya-portfolio" />
 </p>
 
  ---
