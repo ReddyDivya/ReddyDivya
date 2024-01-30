@@ -92,9 +92,8 @@
 ### Projects
 <p align="left">   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-netflix-gpt" alt="rd-netflix-gpt" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=Englingo" alt="Englingo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=CurioScape" alt="CurioScape" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=divya_portfolio" alt="divya-portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=rd-CurioScape" alt="rd-netflix-gpt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReddyDivya&repo=divya-portfolio" alt="rd-netflix-gpt" />
 </p>
 
  ---
