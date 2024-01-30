@@ -12,9 +12,6 @@
  <a href="https://twitter.com/thedivyareddyy" target="_blank">
        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a> &nbsp;
- <a href="https://codepen.io/reddy_divya" target="_blank">
-       <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
- </a> &nbsp;
  <a href="https://hashnode.com/@ReddyDivya" target="_blank">
        <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=0000CD" alt="Hashnode Badge"/>
  </a> &nbsp;
@@ -63,11 +60,9 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 | Programming Language | Version Control |
 | :--- | ---: |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) | ![GIT](https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=orange) ![GITHUB](https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=orange) | 
-| **Frontend Development, Frameworks, Platforms and Libraries** | **Databases** |
-| ![HTML](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=#00C7B7) ![CSS](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-lightblue.svg?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=#00C7B7) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-blue.svg?style=for-the-badge&logo=jQuery&logoColor=orange) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Hosting** |
-| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Core Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) | ![GIT](https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=orange) ![GITHUB](https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=orange) | 
+| **Frontend Development, Frameworks, Platforms and Libraries** | **Hosting** |
+| ![HTML](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=#00C7B7) ![CSS](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-lightblue.svg?style=for-the-badge&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=#00C7B7) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-blue.svg?style=for-the-badge&logo=jQuery&logoColor=orange) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
 
 ---
 
@@ -78,8 +73,6 @@ I'm a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ReddyDivya&theme=alduin)
 
-![Reddy Divya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ReddyDivya&theme=xcode)
-  
  ---
 
 ### :writing_hand: Blog Posts :
