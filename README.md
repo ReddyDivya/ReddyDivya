@@ -11,7 +11,7 @@
  </a> &nbsp;
  <a href="https://twitter.com/thedivyareddyy" target="_blank">
        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a> &nbsp;
+ </a>
  <a href="https://hashnode.com/@ReddyDivya" target="_blank">
        <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=0000CD" alt="Hashnode Badge"/>
  </a> &nbsp;
