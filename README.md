@@ -6,10 +6,6 @@
   <a href="https://linkedin.com/in/reddy-divya-58025a12b" target="_blank">
     <img src="https://img.shields.io/badge/Reddy Divya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <div id="badges" align="center">
-  <a href="https://reddy-divya-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddy Divya-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
- </a>
  <a href="https://github.com/ReddyDivya" target="_blank">
        <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
  </a> &nbsp;
