@@ -33,26 +33,26 @@
 
 ## :woman_technologist: About Me :
 
-- I'm a React JS Developer, I strive to craft responsive web applications that prioritize speed, and seamless user interaction.
+- I'm a **React JS Developer**, I strive to craft responsive web applications that prioritize speed and seamless user interaction.
 
-- I worked for 4.2 years at TeleServices International as a Software Programmer, where I played a role in developing the front end of the PPMS (Physician Practice Management System) web application. I collaborated with teams and also worked independently.
+- I worked for **4.2 years** at **TeleServices International as a Software Programmer**, where I developed the front end of the **PPMS (Physician Practice Management System)** web application. I collaborated with teams and also worked independently.
 
 - Exploring Technical Content Writing.
 
-- I keep posting my knowledge to help others on LinkedIn and Twitter.
+- I keep posting my knowledge to help others on **LinkedIn** and **Twitter**.
 
 - You can contact me at [divyareddy0205@gmail.com](mailto:divyareddy0205@gmail.com)
 
 ---
 
 ## Work Experience
-* ⚡ Software Programmer at TeleServices International (_November 2017 - June 2021_)
-* ⚡ Software Programmer (Intern) at TeleServices International (_May 2017 - November 2017_)
+* ⚡ **Software Programmer** at **TeleServices International (_November 2017 - June 2021_)**
+* ⚡ **Software Programmer (Intern)** at **TeleServices International (_May 2017 - November 2017_)**
 
 ---
 
 ## Education
-* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - September 2023_)** - Grade: 70%
+* ⚡ **Bachelor of Computer Applications at IGNOU (_Jun 2019 - September 2023_) - Grade: 70%**
 * ⚡ **Diploma in Computer Programming at Government Institute of Electronics (_Jun 2014 - November 2017_) - Grade: 91%**
 
 ---
