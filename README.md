@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="she codes"/>
-</div>
+<h2 align="center">
+    Hi👋, I'm Reddy Divya😎
+</h2> 
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/reddy-divya-58025a12b" target="_blank">
@@ -19,14 +19,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ReddyDivya&style=flat-square&color=blue" alt=""/>  
-</div>
-
-<h2 align="center">
-    Hi👋, I'm Reddy Divya😎
-</h2> 
-
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?w=740&t=st=1675430214~exp=1675430814~hmac=be8ed31d862e6e724cebe7a80560e20d9759cb8a4fbbc9409cdd1af11e82a604"/>
 </div>
 
 ---
